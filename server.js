@@ -9,3 +9,4 @@ app.get("/", function (req, res) {
 });
 
 app.listen(3000);
+console.log("Serving app in 3000");
